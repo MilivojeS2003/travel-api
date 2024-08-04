@@ -1,0 +1,9 @@
+fastapi
+sqlalchemy
+alembic
+uvicorn
+python-dotenv
+passlib[bcrypt]
+python-jose
+fastapi-cors
+python-multipart
